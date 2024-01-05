@@ -6,4 +6,6 @@ public class Demo2 {
 		System.out.println("Tuesday");
 	}
 
+	System.out.println("Sprint 1...");
+
 }
